@@ -1,1 +1,1 @@
-# Raycastin-with-TSDF-CUDA-
+# Raycastin-with-TSDF
